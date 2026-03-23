@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="160" viewBox="0 0 680 160">
+  <path d="M40 20 Q120 28 200 44 Q260 54 320 62 Q380 54 440 44 Q520 28 600 14 Q620 10 640 8" fill="none" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="40" y1="80" x2="640" y2="80" stroke="#888780" stroke-width="1.5"/>
+  <path d="M40 140 Q120 132 200 116 Q260 106 320 98 Q380 106 440 116 Q520 132 600 146 Q620 150 640 152" fill="none" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="220" y="58" width="200" height="44" rx="4" fill="#FAEEDA" opacity="0.6"/>
+  <text x="320" y="84" font-size="12" fill="#854F0B" font-family="sans-serif" text-anchor="middle" font-weight="500">Squeeze 구간</text>
+  <path d="M40 82 Q120 81 200 80 Q260 80 320 80 Q380 80 440 80 Q480 76 520 60 Q560 40 590 18 Q610 8 630 4" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <circle cx="440" cy="80" r="5" fill="#639922"/>
+  <line x1="440" y1="80" x2="440" y2="55" stroke="#639922" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="448" y="50" font-size="12" fill="#3B6D11" font-family="sans-serif" font-weight="500">돌파 확인 → 매수</text>
+  <text x="360" y="18" font-size="13" fill="#888780" font-family="sans-serif" text-anchor="middle" font-weight="500">3. 스퀴즈 전략</text>
+</svg>

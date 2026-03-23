@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="160" viewBox="0 0 680 160">
+  <line x1="40" y1="30" x2="640" y2="30" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="40" y1="80" x2="640" y2="80" stroke="#888780" stroke-width="1.5"/>
+  <line x1="40" y1="130" x2="640" y2="130" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="645" y="34" font-size="11" fill="#888780" font-family="sans-serif">+2σ</text>
+  <text x="645" y="84" font-size="11" fill="#888780" font-family="sans-serif">MA</text>
+  <text x="645" y="134" font-size="11" fill="#888780" font-family="sans-serif">-2σ</text>
+  <path d="M40 84 Q90 82 140 80 Q190 78 240 76 Q300 72 350 60 Q390 48 420 32 Q440 24 460 20" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <circle cx="420" cy="32" r="5" fill="#639922"/>
+  <path d="M460 20 Q510 10 560 6 Q600 3 640 2" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <line x1="420" y1="32" x2="420" y2="60" stroke="#639922" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="385" y="72" font-size="12" fill="#3B6D11" font-family="sans-serif" font-weight="500">돌파 → 매수</text>
+  <text x="360" y="18" font-size="13" fill="#888780" font-family="sans-serif" text-anchor="middle" font-weight="500">2. 밴드 돌파 전략</text>
+</svg>

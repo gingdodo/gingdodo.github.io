@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="160" viewBox="0 0 680 160">
+  <line x1="40" y1="30" x2="640" y2="30" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="40" y1="80" x2="640" y2="80" stroke="#888780" stroke-width="1.5"/>
+  <line x1="40" y1="130" x2="640" y2="130" stroke="#85B7EB" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="645" y="34" font-size="11" fill="#888780" font-family="sans-serif">+2σ</text>
+  <text x="645" y="84" font-size="11" fill="#888780" font-family="sans-serif">MA</text>
+  <text x="645" y="134" font-size="11" fill="#888780" font-family="sans-serif">-2σ</text>
+  <path d="M40 82 Q100 78 140 84 Q190 92 230 118 Q260 132 290 130" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <circle cx="290" cy="130" r="5" fill="#E24B4A"/>
+  <path d="M290 130 Q330 126 370 110 Q420 88 470 80" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <path d="M470 80 Q510 76 550 34 Q570 28 590 30" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <circle cx="590" cy="30" r="5" fill="#E24B4A"/>
+  <path d="M590 30 Q620 36 640 50" fill="none" stroke="#378ADD" stroke-width="2"/>
+  <line x1="290" y1="130" x2="290" y2="100" stroke="#E24B4A" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="255" y="148" font-size="12" fill="#A32D2D" font-family="sans-serif" font-weight="500">매수 신호</text>
+  <line x1="590" y1="30" x2="590" y2="60" stroke="#E24B4A" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="556" y="72" font-size="12" fill="#A32D2D" font-family="sans-serif" font-weight="500">매도 신호</text>
+  <text x="360" y="18" font-size="13" fill="#888780" font-family="sans-serif" text-anchor="middle" font-weight="500">1. 평균 회귀 전략</text>
+</svg>
